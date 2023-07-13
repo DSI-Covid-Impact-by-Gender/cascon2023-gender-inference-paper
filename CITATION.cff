@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Alexopoulos"
+  given-names: "Michelle"
+- family-names: "Lyons"
+  given-names: "Kelly"
+- family-names: "Mahetaji"
+  given-names: "Kaushar"
+- family-names: "Barnes"
+  given-names: "Marcus Emmanuel"
+  orcid: "https://orcid.org/0009-0000-7571-9085"
+- family-names: "Gutwillinger"
+  given-names: "Rogan"
+title: "Gender Inference: Can ChatGPT Outperform Common
+Commercial Tools?"
+version: 1.0.0
+date-released: 2023-09-11
+url: "https://github.com/MarcusBarnes/cascon2023"
